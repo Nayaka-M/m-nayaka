@@ -80,3 +80,28 @@ Reasons:
 3. The language used is sensational and tries to create a sense of urgency.
 
 This type of email would be classified as spam and likely filtered out by email providers.
+
+
+Structure of Email Spam Classification Example
+I. Email Content
+- "Win a FREE iPhone 14! Click here to claim your prize now! [suspicious link]"
+
+II. Classification
+- SPAM
+
+III. Reasons for Classification
+1. Unsolicited: The email is sent without the recipient's consent.
+2. Misleading: The email contains false information about winning a prize.
+3. Potentially Malicious: The suspicious link may lead to phishing or malware.
+4. Sensational Language: The language used creates a sense of urgency.
+
+IV. Characteristics of Spam
+- Unrealistic promises
+- Urgency
+- Suspicious links or attachments
+- Lack of personalization or relevance
+
+V. Action
+- Block the sender's email address
+- Filter the email into a spam folder
+- Warn the recipient about potential risks
