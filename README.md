@@ -61,3 +61,22 @@ Advantages
 Disadvantages
 - Naive Bayes assumes independence between features, which may not always be true in practice.
 - It can be sensitive to the choice of features and may not perform well with complex or noisy data.
+
+
+sample
+
+Here's an example of email spam classification:
+
+Spam Email Example:
+
+"Win a FREE iPhone 14! Click here to claim your prize now! [ suspicious link ]"
+
+Classification: SPAM ( Unsolicited, misleading, and potentially malicious)
+
+Reasons:
+
+1. The email is unsolicited and tries to lure the recipient with a fake prize.
+2. It contains a suspicious link that may lead to phishing or malware.
+3. The language used is sensational and tries to create a sense of urgency.
+
+This type of email would be classified as spam and likely filtered out by email providers.
